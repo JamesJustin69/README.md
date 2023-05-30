@@ -1,6 +1,6 @@
 # Tarea 2: MySQL
 > Esta tarea es acerca de montar un servidor MySQL con un cliente Dbeaver, utilizando DockerFiels
-> Informe en LaTeX [ñink](link)
+> Informe en LaTeX [Overleaf](https://www.overleaf.com/read/qcqzhzmrvbkx)
 
 ## Tabla de Contenidos
 * [Información General](#información-general)
