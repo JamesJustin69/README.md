@@ -57,6 +57,8 @@ Finalmente, una vez ya estando todo funcionando, se puede notar un tráfico de p
 - FROM dbeaver/cloudbeaver:latest
 - ARG CLOUDBEAVER_VERSION=latest
 - EXPOSE 8080
+
+
 Con ambos dockerfiles listos, se ejecutan con los siguientes comandos:
 -sudo docker run -p 3306:3306 -it mysql-server
 -sudo docker run -ti --net=host dbeaver-client
