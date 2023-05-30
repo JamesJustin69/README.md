@@ -32,7 +32,8 @@ Algunas características que fueron implementadas:
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
-![Direccion de CloudBeaver](./
+![Direccion de CloudBeaver](![extraccion de url](https://github.com/JamesJustin69/README.md/assets/89882424/0f75b6e8-54d3-4861-9d18-c99a02ba1cac)
+
 
 ## Setup
 Para empezar a desarrollar este proyecto, se necesitan algunas dependencias como Docker, Wireshark, también la descarga del protocolo seleccionado (el servidor y el cliente).
